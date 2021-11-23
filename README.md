@@ -5,8 +5,7 @@ This is a quick node project template for demoing Codespaces. It is based off of
 
 # Para crear este repositorio
 
-He seguido la documentación de GitHub codespaces.
-https://docs.github.com/en/codespaces/getting-started/quickstart
+[He seguido la documentación de GitHub codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)
 
 # Ejecucion
 
